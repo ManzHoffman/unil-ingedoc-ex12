@@ -3,11 +3,13 @@
 <head>SCÈNE I</head>
 
 
-BERTRAND, _seul_. <stage>Il est assis devant une table à droite</stage>
+BERTRAND, <cue>seul</cue>
+. <stage>Il est assis devant une table à droite</stage>
 .
 
-Maintenant, voyons si l'on a bien inscrit tous les voyageurs... (_Il
-ouvre un registre_). M, Dubois, très bien; M. Lefèvre; M. Coquelet, très
+Maintenant, voyons si l'on a bien inscrit tous les voyageurs... <stage>Il
+ouvre un registre</stage>
+. M, Dubois, très bien; M. Lefèvre; M. Coquelet, très
 bien; au numéro 9, M. Martin, profession, propriétaire; au numéro 11, M.
 Martin... Tiens, encore un Martin! profession: professeur de prothèse
 dentaire; au numéro 13, M. Martin!... Ah! çà, il n'y a donc que des
@@ -33,7 +35,8 @@ Oui, Monsieur; j'en ai même plusieurs.
 
 <sp><speaker>DURAND</speaker><p>
 
-Plusieurs Martin valent mieux qu'un. (_À la cantonade_.) Viens,
+Plusieurs Martin valent mieux qu'un. <stage>À la cantonade</stage>
+. Viens,
 Venceslas.
 
 <sp><speaker>BERTRAND</speaker><p>
@@ -88,8 +91,9 @@ Et Monsieur...
 <sp><speaker>DURAND</speaker><p>
 
 C'est Venceslas Durand, mon neveu; 28 ans; un coeur d'or et des bras de
-boulanger... Mettez seulement Venceslas Durand. (_Venceslas va s'asseoir
-au fond, à droite._)
+boulanger... Mettez seulement Venceslas Durand. <stage>Venceslas va s'asseoir
+au fond, à droite.</stage>
+
 
 <sp><speaker>BERTRAND</speaker><p>
 
@@ -121,7 +125,8 @@ L'article 1983?
 
 <sp><speaker>DURAND</speaker><p>
 
-Du Code Civil?--je l'ai toujours sur moi--pas l'article; le Code;
+Du Code Civil?<l>je l'ai toujours sur moi</l>
+pas l'article; le Code;
 mais, puisque, quand j'ai le Code, j'ai l'article, ça peut se dire.
 Écoutez-le; vous comprendrez alors la fausse position dans laquelle je
 me trouve et vous pourrez peut-être m'aider à en sortir.
@@ -133,12 +138,13 @@ Moi?
 <sp><speaker>DURAND</speaker><p>
 
 On a souvent besoin d'un plus petit que soi. Voici ce que chante cet
-article:--je ne sais pas l'air. <stage>Il rit, lisant.</stage>
+article:<l>je ne sais pas l'air. <stage>Il rit, lisant.</stage>
  "Le propriétaire
 d'une rente viagère ne peut en demander les arrérages qu'en justifiant
 de son existence ou de celle de la personne sur la tête de laquelle
 elle a été constituée, quand elle est constituée sur la tête d'un
-tiers."--Vous avez entendu?
+tiers."</l>
+Vous avez entendu?
 
 <sp><speaker>BERTRAND</speaker><p>
 
@@ -184,7 +190,7 @@ Pourquoi cela?
 
 <sp><speaker>DURAND</speaker><p>
 
-Ah; pourquoi cela? nous y voilà!--Monsieur, il n'y a pas de jour,
+Ah; pourquoi cela? nous y voilà!<l>Monsieur, il n'y a pas de jour,
 que dis-je? d'heure... que dis-je? de minute, où je ne me pose cette
 question; mais pourquoi diable cet animal-là m'a-t-il constitué une
 rente sur la tête de son neveu? S'il voulait me faire une politesse...
@@ -199,10 +205,13 @@ C'est un joli costume.
 <sp><speaker>DURAND</speaker><p>
 
 Joli, au premier abord, mais difficile à endosser. Hier, je vais chez
-Maître Tétreau, notaire à Hull, et je lui dis:--Tétreau, je viens
-toucher ma rente.--Très bien, me dit-il; mais tu sais que pour toucher
-tu dois prouver l'existence de Martin. Prouve et je paie.--Prouver,
-comment? Martin n'est pas ici.--Où est-il? me dit-il.--Je n'en sais
+Maître Tétreau, notaire à Hull, et je lui dis:</l>
+Tétreau, je viens
+toucher ma rente.<l>Très bien, me dit-il; mais tu sais que pour toucher
+tu dois prouver l'existence de Martin. Prouve et je paie.</l>
+Prouver,
+comment? Martin n'est pas ici.<l>Où est-il? me dit-il.</l>
+Je n'en sais
 rien, lui dis-je--Eh bien, me dit-il, cherche, apporte et tu toucheras.
 Alors, l'oeil morne et la tête baissée, je suis venu jusqu'ici,
 demandant à chacun en route, s'il n'avait pas par aventure vu M. Martin.
@@ -213,8 +222,9 @@ BERTRAND. Trois, monsieur; l'un au 9; l'autre au 11, et le troisième...
 
 <sp><speaker>DURAND</speaker><p>
 
-Je vais interroger le 9... Venceslas! (_Venceslas sur une chaise, au
-fond à droite, dort_). Il dort!
+Je vais interroger le 9... Venceslas! <stage>Venceslas sur une chaise, au
+fond à droite, dort</stage>
+. Il dort!
 
 <sp><speaker>BERTRAND</speaker><p>
 
@@ -264,7 +274,8 @@ beaucoup, cette canaille et moi.
 
 <sp><speaker>VENCESLAS</speaker><p>
 
-Encore une histoire! Cet homme-là a servi dans les _Mille et une Nuits_,
+Encore une histoire! Cet homme-là a servi dans les <cue>Mille et une Nuits</cue>
+,
 bien sûr.
 
 DURAND. Mais, ça n'est pas tout ça, il me faut mon Martin. L'hôtelier
@@ -283,7 +294,8 @@ BERTRAND <stage>entrant</stage>
 
 La chambre de monsieur est prête.
 
-VENCESLAS (_se promenant les mains derrière le dos)._
+VENCESLAS <stage>se promenant les mains derrière le dos</stage>
+
 
 Bon!
 
@@ -323,17 +335,20 @@ Hein?...
 
 <sp><speaker>BERTRAND</speaker><p>
 
-Il a l'air un peu toqué. (_Venceslas ne lui répond pas; il prend
-une chaise qu'il enlève à bras tendu_). Diable! monsieur est fort!
-(_Venceslas ne répond pas; il appuie sa main sur l'épaule de Bertrand,
-qui fléchit, et rebondit à la troisième fois, sautant à droite_).
+Il a l'air un peu toqué. <stage>Venceslas ne lui répond pas; il prend
+une chaise qu'il enlève à bras tendu</stage>
+. Diable! monsieur est fort!
+<stage>Venceslas ne répond pas; il appuie sa main sur l'épaule de Bertrand,
+qui fléchit, et rebondit à la troisième fois, sautant à droite</stage>
+.
 Pourquoi donc me dérangez-vous comme ça?
 
 <sp><speaker>VENCESLAS</speaker><p>
 
 C'est pour vous montrer ce que je pourrais faire de vous dans le cas
-où vous parleriez mal de mes parents... j'ai dit. (_Il recommence à se
-promener_).
+où vous parleriez mal de mes parents... j'ai dit. <stage>Il recommence à se
+promener</stage>
+.
 
 BERTRAND <stage>à part</stage>
 .
@@ -381,8 +396,9 @@ Nous irons donc à pied?
 <sp><speaker>DURAND</speaker><p>
 
 Certes oui! je me fais une fête de marcher sur les trottoirs en
-asphalte. Viens! (_Ils vont pour sortir, Durand se heurte contre un
-jeune homme qui entre brusquement._)
+asphalte. Viens! <stage>Ils vont pour sortir, Durand se heurte contre un
+jeune homme qui entre brusquement.</stage>
+
 
 
 <head>SCÈNE VI</head>
@@ -736,8 +752,9 @@ Comme c'est adroit de me dire ça!
 
 <sp><speaker>DURAND</speaker><p>
 
-Il faut tout prévoir. Adieu, je vais faire mes courses. (_Il remonte.
-Déclamant._) "Sors vainqueur d'un combat dont Naïde est le prix." Adieu,
+Il faut tout prévoir. Adieu, je vais faire mes courses. <stage>Il remonte.
+Déclamant.</stage>
+ "Sors vainqueur d'un combat dont Naïde est le prix." Adieu,
 mon petit Ceslas. Si j'ai le temps, j'achèterai quelques tulipes, à tout
 hasard... Adieu, mon petit Ceslas; je vole, vole, vole...
 
@@ -798,8 +815,9 @@ Broyé?
 
 <sp><speaker>DURAND</speaker><p>
 
-Ah; quel événement!... J'en suis encore tout perplexe... (_A
-Venceslas._) Figure-toi...
+Ah; quel événement!... J'en suis encore tout perplexe... <stage>A
+Venceslas.</stage>
+ Figure-toi...
 
 VENCESLAS <stage>à part</stage>
 .
@@ -977,8 +995,9 @@ et qui ne tient pas plus à sa vie...
 
 Mais j'y tiens, moi, j'y tiens à sa vie!... Heureusement me voici près
 de lui, et... <stage>Jetant un nouveau cri.</stage>
- Ah! grand Dieu! (_Bertrand
-impatienté sort._)
+ Ah! grand Dieu! <stage>Bertrand
+impatienté sort.</stage>
+
 
 <sp><speaker>VENCESLAS</speaker><p>
 
@@ -1010,7 +1029,8 @@ Ah! ça, permettez...
 <head>SCÈNE XI</head>
 
 
-_Les mêmes,_ MARTIN <stage>avec des épées</stage>
+<cue>Les mêmes,</cue>
+ MARTIN <stage>avec des épées</stage>
 .
 
 
@@ -1315,7 +1335,8 @@ l'épouserez!
 <head>SCÈNE XIII</head>
 
 
-_Les mêmes,_ VENCESLAS.
+<cue>Les mêmes,</cue>
+ VENCESLAS.
 
 
 <sp><speaker>VENCESLAS</speaker><p>
@@ -1358,7 +1379,8 @@ rente sur la tête de son neveu?
 <head>SCÈNE XIV</head>
 
 
-_Les mêmes,_ BERTRAND <stage>une lettre à la main</stage>
+<cue>Les mêmes,</cue>
+ BERTRAND <stage>une lettre à la main</stage>
 .
 
 
@@ -1382,8 +1404,9 @@ MARTIN <stage>à part</stage>
 
 "Mais maintenant que je suis de retour, ce soin me regarde. J'ai
 régularisé les choses en transférant la rente sur la tête de ta fille
-Aménaïde". Enfin, j'échappe donc à la pression de ce vampire! (_A
-Martin_). Cher ami, tu n'auras pas ma fille!
+Aménaïde". Enfin, j'échappe donc à la pression de ce vampire! <stage>A
+Martin</stage>
+. Cher ami, tu n'auras pas ma fille!
 
 VENCESLAS <stage>avec joie</stage>
 .
@@ -1397,7 +1420,8 @@ Toi, je t'ai promis des tulipes, tu auras tes tulipes.
 DURAND <stage>au public</stage>
 .
 
-AIR: _de Céline._
+AIR: <cue>de Céline.</cue>
+
 
   J'eus toujours l'âme tendre et bonne,
   Les moeurs douces, le coeur aimant;

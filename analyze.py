@@ -12,8 +12,10 @@ text = open(path_of_clean_txt, encoding="utf-8").read()
 
 text = re.sub(r'^(SCÈNE\s[IVXLCDM]{1,6})', r'<head>\1</head>\n', text, flags=re.MULTILINE)
 
-text = re.sub(r'\(_(.*?)_\)', r'<stage>\1</stage>\n', text, flags=re.MULTILINE)
+text = re.sub(r'\(_(.*?)_\)', r'<stage>\1</stage>\n', text, flags= re.MULTILINE | re.DOTALL)
 
+text = re.sub(r'_(.*?)_', r'<cue>\1</cue>\n', text, flags= re.MULTILINE | re.DOTALL)
+text = re.sub(r'--(.*?)--', r'<l>\1</l>\n', text, flags= re.MULTILINE | re.DOTALL)
 
 # insert 
 text = re.sub(r'^([A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]+)\.\n', r'<sp><speaker>\1</speaker><p>\n', text, flags=re.MULTILINE)
