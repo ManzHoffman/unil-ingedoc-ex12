@@ -1,30 +1,49 @@
 import re
+from pathlib import Path
 
+# File paths
+input_path = "martin_clean.txt"  # Replace this path
+output_path = "result/martin_clean.xml"
 
-# This script analyze
-path_of_clean_txt="martin_clean.txt"
-output_path="result/martin_clean.xml"
+# Read input
+text = Path(input_path).read_text(encoding="utf-8")
 
+# Tag scene headings like "SCÈNE I"
+text = re.sub(r'^(SCÈNE\s[IVXLCDM]{1,6})', r'<head>\1</head>', text, flags=re.MULTILINE)
 
+# Stage directions in (_..._)
+text = re.sub(r'\(_(.*?)_\)', r'<stage>\1</stage>', text, flags=re.DOTALL)
 
-#we open the clean text
-text = open(path_of_clean_txt, encoding="utf-8").read()
+# Inline cues: _..._
+text = re.sub(r'_(.*?)_', r'<cue>\1</cue>', text, flags=re.DOTALL)
 
-text = re.sub(r'^(SCÈNE\s[IVXLCDM]{1,6})', r'<head>\1</head>\n', text, flags=re.MULTILINE)
+# Inline lines: --...--
+text = re.sub(r'--(.*?)--', r'<l>\1</l>', text, flags=re.DOTALL)
 
-text = re.sub(r'\(_(.*?)_\)', r'<stage>\1</stage>\n', text, flags= re.MULTILINE | re.DOTALL)
+# Insert </p></sp> before <head> (except first one)
+text = re.sub(r'(?<!^)\n<head>', r'</p></sp>\n<head>', text)
 
-text = re.sub(r'_(.*?)_', r'<cue>\1</cue>\n', text, flags= re.MULTILINE | re.DOTALL)
-text = re.sub(r'--(.*?)--', r'<l>\1</l>\n', text, flags= re.MULTILINE | re.DOTALL)
+# Insert <sp><p> AFTER each <head>
+text = re.sub(r'(<head>.*?</head>)', r'\1\n<sp><p>', text, flags=re.DOTALL)
 
-# insert 
-text = re.sub(r'^([A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]+)\.\n', r'<sp><speaker>\1</speaker><p>\n', text, flags=re.MULTILINE)
+# Tag speakers: uppercase names
+text = re.sub(
+    r'(?m)^([A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]{4,})(?=(\s*<stage>|\.|:|\s*$))',
+    r'</p></sp>\n<sp><speaker>\1</speaker><p>',
+    text
+)
 
-text = re.sub(r'\n(?=[A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]+\.\n)', r'</p></sp>\n', text)
+# Final tag balancing
+open_sp = text.count('<sp>')
+close_sp = text.count('</sp>')
+if open_sp > close_sp:
+    text += '</p></sp>\n' * (open_sp - close_sp)
 
-# Add XML header and root tag (optional, for proper XML structure)
-text = '<?xml version="1.0" encoding="UTF-8"?>\n<body>\n' + text + '\n</body>'
+# Wrap entire body
+text = '<?xml version="1.0" encoding="UTF-8"?>\n<body>\n' + text.strip() + '\n</body>'
 
-# Export to XML file
-with open(output_path, "w", encoding="utf-8") as output_file:
-    output_file.write(text)
+# Write output
+Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+Path(output_path).write_text(text, encoding="utf-8")
+
+print(f"✅ Fixed XML saved to: {output_path}")
