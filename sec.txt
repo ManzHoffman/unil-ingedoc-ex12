@@ -4,10 +4,10 @@
 <head>SCÈNE I</head>
 <sp><p>
 
-BERTRAND, <cue>seul</cue>. <stage>Il est assis devant une table à droite.</stage>
+BERTRAND, <cue>seul</cue>. <stage>Il est assis devant une table à droite</stage>.
 
 Maintenant, voyons si l'on a bien inscrit tous les voyageurs... <stage>Il
-ouvre un registre.</stage> M, Dubois, très bien; M. Lefèvre; M. Coquelet, très
+ouvre un registre</stage>. M, Dubois, très bien; M. Lefèvre; M. Coquelet, très
 bien; au numéro 9, M. Martin, profession, propriétaire; au numéro 11, M.
 Martin... Tiens, encore un Martin! profession: professeur de prothèse
 dentaire; au numéro 13, M. Martin!... Ah! çà, il n'y a donc que des
@@ -20,41 +20,51 @@ mois.
 <sp><p>
 
 BERTRAND, DURAND, puis VENCESLAS.
+
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>du seuil de la porte.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>du seuil de la porte</stage>.
 
 Pardon, monsieur, n'auriez-vous pas ici un nommé Martin?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Oui, Monsieur; j'en ai même plusieurs.
-</p></sp>
-<sp><speaker>DURAND.</speaker><p>
 
-Plusieurs Martin valent mieux qu'un. <stage>À la cantonade.</stage> Viens,
-Venceslas.
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
+
+Plusieurs Martin valent mieux qu'un. <stage>À la cantonade</stage>. Viens,
+Venceslas.
+
+</p></sp>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur désire une chambre?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Deux; une pour moi, et une pour mon neveu.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p> <stage>désignant 2 portes à gauche.</stage>
+<sp><speaker>BERTRAND</speaker><p>. <stage>désignant 2 portes à gauche</stage>.
 
 Voici justement deux chambres qui se touchent.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Très bien!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur veut-il me dire son nom?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Durand; Maleck-Adel Durand. Ce prénom vous étonne; ça ne m'étonne pas.
 Voici comment je le reçus: ma mère venait de lire le roman de Madame
@@ -64,67 +74,82 @@ fit quelques objections, à cause de Maleck, qui n'est pas dans le
 calendrier; mais on lui fit observer qu'Adèle s'y trouvait; cette
 considération vainquit ses scrupules; et je fus nommé Maleck-Adel...
 Mettez Durand seulement.
+
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>écrivant.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>écrivant</stage>.
 
 M. Durand... Dernière résidence?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Hull, patrie de Eddy, des allumettes souffrées et des piles de
 planches... Mettez Hull seulement; rue des Trois-Cailloux, vingt-deux
 (les deux cocottes)... mettez seulement 22.
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>désignant Venceslas.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>désignant Venceslas</stage>.
 
 Et Monsieur...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 C'est Venceslas Durand, mon neveu; 28 ans; un coeur d'or et des bras de
 boulanger... Mettez seulement Venceslas Durand. <stage>Venceslas va s'asseoir
 au fond, à droite.</stage>
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 C'est ce que j'ai fait.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Et bien vous fîtes.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur est-il à Ottawa pour longtemps?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ah! je donnerais une forte prime à celui qui pourrais me le dire!...
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur vient sans doute pour affaires?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Connaissez-vous l'article 1983?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 L'article 1983?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Du Code Civil?<l>je l'ai toujours sur moi</l>pas l'article; le Code;
 mais, puisque, quand j'ai le Code, j'ai l'article, ça peut se dire.
 Écoutez-le; vous comprendrez alors la fausse position dans laquelle je
 me trouve et vous pourrez peut-être m'aider à en sortir.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Moi?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 On a souvent besoin d'un plus petit que soi. Voici ce que chante cet
 article:<l>je ne sais pas l'air. <stage>Il rit, lisant.</stage> "Le propriétaire
@@ -132,22 +157,26 @@ d'une rente viagère ne peut en demander les arrérages qu'en justifiant
 de son existence ou de celle de la personne sur la tête de laquelle
 elle a été constituée, quand elle est constituée sur la tête d'un
 tiers."</l>Vous avez entendu?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Oh! parfaitement, mais je n'ai pas compris.
-</p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>à part.</stage>
 
-C'est une bûche. <stage>Haut.</stage> Je m'explique; j'ai une rente de $1.000
+</p></sp>
+<sp><speaker>DURAND</speaker><p> <stage>à part</stage>.
+
+C'est une bûche. <stage>Haut</stage>. Je m'explique; j'ai une rente de $1.000
 constituée sur la tête d'un tiers (que je ne connais pas et que je n'ai
 jamais vu) répondant au nom de...
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p> <stage>l'interrompant.</stage>
+<sp><speaker>BERTRAND</speaker><p>. <stage>l'interrompant</stage>.
 
 Qu'entendez-vous par constituée sur la tête d'un tiers?
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>à part.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>à part</stage>.
 
 Mettons-nous à sa portée. <stage>Haut.</stage> Je suppose que je veuille vous faire
 $1.000 de rente (mais je ne le veux pas). Eh bien, je vous dis: Je vous
@@ -156,21 +185,25 @@ je l'emploie ici adverbialement). C'est ainsi que cela se mijote
 habituellement. Mais, au lieu d'agir aussi simplement, je puis vous
 dire: je vous servirai $1.000 par an, tant que vivra votre domestique.
 C'est un droit que j'ai, Comprenez-vous?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Très bien.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 C'est heureux. Or, Jean Martin, mon parent éloigné, mais mon parent, m'a
 constitué une rente du chiffre précité sur la tête de son neveu.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Pourquoi cela?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ah; pourquoi cela? nous y voilà!<l>Monsieur, il n'y a pas de jour,
 que dis-je? d'heure... que dis-je? de minute, où je ne me pose cette
@@ -179,12 +212,14 @@ rente sur la tête de son neveu? S'il voulait me faire une politesse...
 viagère, il était si simple de me l'adresser directement; il m'eût
 épargné bien des tribulations... C'est au point que je commence à croire
 que son bienfait est une vengeance habillée en piastres.</l>
+
 </p></sp>
 <sp><speaker>BERTRAND</speaker><p>
 
 C'est un joli costume.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Joli, au premier abord, mais difficile à endosser. Hier, je vais chez
 Maître Tétreau, notaire à Hull, et je lui dis:<l>Tétreau, je viens
@@ -197,26 +232,32 @@ demandant à chacun en route, s'il n'avait pas par aventure vu M. Martin.
 Mais j'eus beau demander, personne ne put me renseigner. Et vous dites
 que vous avez des locataires de ce nom?
 
-BERTRAND. Trois, monsieur; l'un au 9; l'autre au 11, et le troisième...
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>. Trois, monsieur; l'un au 9; l'autre au 11, et le troisième...
+
+</p></sp>
+<sp><speaker>DURAND</speaker><p>.
 
 Je vais interroger le 9... Venceslas! <stage>Venceslas sur une chaise, au
-fond à droite, dort.</stage> Il dort!
+fond à droite, dort</stage>. Il dort!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 C'est sans doute la fatigue du voyage?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ça m'étonnerait, attendu qu'il est à Ottawa depuis huit jours.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Ah!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Il m'y avait précédé pour l'achat de la corbeille, car Venceslas va
 devenir mon bru... Mon cher hôte, je vous prie d'annoncer ma visite au
@@ -224,8 +265,9 @@ numéro 9. <stage>Il sort avec Bertrand.</stage>
 </p></sp>
 <head>SCÈNE III</head>
 <sp><p>
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>seul, se levant.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>seul, se levant</stage>.
 
 Tiens! je crois que je m'étais endormi... Oh! quand le père Durand se
 met à raconter des histoires, j'ai beau faire, il me semble que j'avale
@@ -236,8 +278,10 @@ une potée d'opium.
 <sp><p>
 
 VENCESLAS, DURAND.
+
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Je suis fumé! Je sors du 9, ce n'est pas mon homme; mais, ce qu'il y a
 de particulier, c'est que, de même que je l'ai pris pour le Martin que
@@ -246,116 +290,141 @@ Durand est un huissier, de sorte qu'il m'a menacé de me jeter par la
 fenêtre. Il allait perpétrer ce délit, quand, fort heureusement, le
 quiproquo s'est découvert. Il m'a serré la main, et nous avons ri
 beaucoup, cette canaille et moi.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Encore une histoire! Cet homme-là a servi dans les <cue>Mille et une Nuits</cue>,
 bien sûr.
 
-DURAND. Mais, ça n'est pas tout ça, il me faut mon Martin. L'hôtelier
-m'a parlé du n° 11... Allons-y. Enfant, je reviens <stage>il sort.</stage>
+</p></sp>
+<sp><speaker>DURAND</speaker><p>. Mais, ça n'est pas tout ça, il me faut mon Martin. L'hôtelier
+m'a parlé du n° 11... Allons-y. Enfant, je reviens <stage>il sort</stage>.
 
 </p></sp>
 <head>SCÈNE V</head>
 <sp><p>
 
 VENCESLAS, BERTRAND, puis DURAND.
+
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>entrant.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>entrant</stage>.
 
 La chambre de monsieur est prête.
+
 </p></sp>
 <sp><speaker>VENCESLAS</speaker><p> <stage>se promenant les mains derrière le dos</stage>
 
 Bon!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur aime mieux rester ici?
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>se promenant.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>se promenant</stage>.
 
 Oui.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Comme monsieur voudra.
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>même jeux.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>même jeux</stage>.
 
 Certes.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Monsieur attend sans doute le retour de son oncle?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Oui.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 C'est un drôle de particulier que l'oncle de monsieur.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Hein?...
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Il a l'air un peu toqué. <stage>Venceslas ne lui répond pas; il prend
-une chaise qu'il enlève à bras tendu.</stage> Diable! monsieur est fort!
+une chaise qu'il enlève à bras tendu</stage>. Diable! monsieur est fort!
 <stage>Venceslas ne répond pas; il appuie sa main sur l'épaule de Bertrand,
-qui fléchit, et rebondit à la troisième fois, sautant à droite.</stage>
+qui fléchit, et rebondit à la troisième fois, sautant à droite</stage>.
 Pourquoi donc me dérangez-vous comme ça?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 C'est pour vous montrer ce que je pourrais faire de vous dans le cas
 où vous parleriez mal de mes parents... j'ai dit. <stage>Il recommence à se
-promener.</stage>
+promener</stage>.
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>à part.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>à part</stage>.
 
 Quelle drôle de famille!
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>rentrant.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>rentrant</stage>.
 
 Ah! monsieur Bertrand, que le bon Dieu vous patafiole!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Moi, monsieur?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Vous me dites que mon Martin est au n° 11, et vous me lancez sur un
 sexagénaire, sourd, aveugle et myope; tandis que mon Martin a 3O ans
 tout au plus et jouit de tous ses organes.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Ce n'est pas ma faute, moi... Si monsieur veut voir celui du 13?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Merci, j'en ai assez comme ça... je veux, au préalable, aller prendre
 des renseignement au poste de police. De cette façon, je ne serai pas
 exposé à bassiner un tas de braves gens, qui me le rendraient bien.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Comme monsieur voudra. <stage>Il sort.</stage>
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Toi, Venceslas, prends ton parapluie, ton plan d'Ottawa, et suis-moi.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Nous irons donc à pied?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Certes oui! je me fais une fête de marcher sur les trottoirs en
 asphalte. Viens! <stage>Ils vont pour sortir, Durand se heurte contre un
@@ -366,286 +435,356 @@ jeune homme qui entre brusquement.</stage>
 <sp><p>
 
 DURAND, VENCESLAS, MARTIN.
+
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ah!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Oh!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Faites donc attention!
+
 </p></sp>
 <sp><speaker>MARTIN</speaker><p>
 
 Faites attention vous-même.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Maladroit!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Imbécile!
+
 </p></sp>
 <sp><speaker>DURAND</speaker><p>
 
 Vous avez dit?...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p> <stage>bien tranquillement.</stage>
+<sp><speaker>MARTIN</speaker><p>. <stage>bien tranquillement</stage>.
 
 J'ai dit: imbécile.
+
 </p></sp>
 <sp><speaker>DURAND</speaker><p>
 
 Vous n'êtes pas poli, monsieur.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Vous non plus, monsieur.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Moi, monsieur, j'ai cinquante-deux ans.
+
 </p></sp>
 <sp><speaker>MARTIN</speaker><p>
 
 Et moi, monsieur, vingt-neuf.
+
 </p></sp>
 <sp><speaker>DURAND</speaker><p>
 
 C'est justement pour cela...
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>l'interrompant.</stage>
+<sp><speaker>MARTIN</speaker><p> <stage>l'interrompant</stage>.
 
 Qu'étant mon aîné de vingt-trois ans, vous devez être vingt-trois fois
 plus poli que moi.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Et s'il me plait d'être vingt-trois fois plus grossier, moi?
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>allant s'asseoir.</stage>
+<sp><speaker>MARTIN</speaker><p> <stage>allant s'asseoir</stage>.
 
 Ah! vous m'ennuyez!...
+
 </p></sp>
 <sp><speaker>DURAND</speaker><p>
 
 Jeune homme!...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Allez au diable!...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Vous m'en rendrez raison aujourd'hui même...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mon oncle!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Dans la personne de mon neveu.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Plaît-il?
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>répétant.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>répétant</stage>.
 
 Dans la personne de mon neveu.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Pardon, mais...
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>bas.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>bas</stage>.
 
 La main d'Aménaïde est à ce prix.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Quoi! vous voulez que j'aille frapper mon semblable?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Son semblable!... monsieur, je vous prie de ne pas me dire d'injures.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Tu l'entends, il t'invective!
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Bah! ça ne fait rien, je n'ai pas compris.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Comment! tu refuses de laver mes cheveux blancs?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Permettez donc...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Venceslas, n'aurais-tu rien dans la poitrine, à gauche? Venceslas,
 serais-tu un lâche?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Un lâche, moi? <stage>À part, levant les yeux au ciel.</stage> O ma mère!
-<stage>s'approchant de Martin.</stage> Monsieur...
+<stage>s'approchant de Martin</stage>. Monsieur...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Eh bien, après? Qu'est-ce que vous voulez?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Monsieur, savez-vous que je suis extrêmement fort?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Qu'est-ce que ça me fait?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Savez-vous que je vous mettrais en morceaux extrêmement minces?
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>ironiquement.</stage>
+<sp><speaker>MARTIN</speaker><p> <stage>ironiquement</stage>.
 
 En vérité?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 En cannelle, monsieur, en poussière, monsieur.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Vous?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Moi.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Vous?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Moi.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 As-tu fini! <stage>Il lui enfonce son chapeau jusqu'aux oreilles.</stage>
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Oh! <stage>Il veut se jeter sur Martin, Durand se met en travers.</stage>
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Venceslas, l'honneur des Durand est endommagé dans la personne de ton
 chapeau. Le fer seul peur le retaper.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Il me semble que le premier chapelier venu... Joseph Côté, par
 exemple!...
+
 </p></sp>
 <sp><speaker>DURAND</speaker><p>
 
 La main d'Aménaïde est à ce prix.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Vous êtes charmant... mais si je succombe?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Aménaïde ira déposer des tulipes sur ta tombe... Et moi aussi...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Vous me le promettez?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Je te le jure.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Allons, ça me décide... <stage>À martin.</stage> Votre heure, monsieur?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 La vôtre?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 À midi, dans huit jours.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 J'aimerais mieux aujourd'hui.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Bon! où ça?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Où vous voudrez.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Devant le Bureau de Poste.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 J'aimerais mieux le bois McKay.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Va pour le bois McKay... avec quoi nous taperons-nous?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Choisissez vous-même les armes.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Eh bien, le pistolet... À cent pas.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 J'aimerais mieux à vingt-cinq.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 À vingt-cinq, c'est convenu. À l'épée.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Dans une heure je viendrai vous chercher.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Dans une heure!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Messieurs, enchanté d'avoir fait votre connaissance. Une affaire
 m'appelle ailleurs.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Nous nous reverrons bientôt.
 
@@ -656,47 +795,58 @@ Nous nous reverrons bientôt.
 <sp><p>
 
 DURAND, VENCESLAS.
+
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Eh bien, êtes-vous content?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Je suis ravi. Tu me rappelles toute l'histoire humaine et une partie de
 l'Égypte. <stage>Il va pour sortir.</stage>
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Où allez-vous donc?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 À la recherche de mon Martin...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Et vous ne m'emmenez pas?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Non; il vaut mieux que tu restes ici à te refaire un peu la main.
 D'ailleurs, ne faut-il pas que tu écrives à ta fiancée, mon pauvre
 garçon?
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Comment, écrire?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Dame; si par malheur tu allais...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Comme c'est adroit de me dire ça!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Il faut tout prévoir. Adieu, je vais faire mes courses. <stage>Il remonte.
 Déclamant.</stage> "Sors vainqueur d'un combat dont Naïde est le prix." Adieu,
@@ -706,8 +856,9 @@ hasard... Adieu, mon petit Ceslas; je vole, vole, vole...
 </p></sp>
 <head>SCÈNE VIII</head>
 <sp><p>
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>seul.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>seul</stage>.
 
 Vieux hanneton! le diable l'emporte avec ses tulipes! Quand je pense que
 c'est pour lui que je vais risquer ma peau... Quand je dis pour lui,
@@ -728,59 +879,72 @@ Viendraient-ils déjà me chercher?
 <sp><p>
 
 VENCESLAS, DURAND, MARTIN
+
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>à Martin.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>à Martin</stage>.
 
 Non, jeune homme, vous ne me quitterez pas avant que je vous aie accablé
 du poids de ma reconnaissance.
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>étonné, à part.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>étonné, à part</stage>.
 
 Sa reconnaissance!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Eh! mon Dieu, je vous répète que ça ne vaut pas la peine...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Pas la peine!... Lorsque sans vous je pouvais être broyé.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Broyé?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ah; quel événement!... J'en suis encore tout perplexe... <stage>A
 Venceslas.</stage> Figure-toi...
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>à part.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>à part</stage>.
 
 Bon! troisième histoire!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Figure-toi, dis-je, qu'en sortant d'ici, je me décide à monter en
 fiacre.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mais vous vouliez aller à pied?...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Je le voulais, et point ne le fis. Que n'ai-je persisté dans cette
 résolution! Elle m'eût économisé une forte venette. Enfin, je monte en
 fiacre. À peine, eûmes-nous fait quelques pas, que, par un hasard sans
 précédent dans l'histoire moderne, les chevaux prennent le mors aux
 dents...
+
 </p></sp>
 <sp><speaker>VENCESLAS</speaker><p>
 
 Des chevaux de fiacre?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Frappé de terreur, je crie au cocher de retenir ses coursiers. Il veut
 les rappeler, mais sa voix les effraye. Deux flèches, Venceslas, deux
@@ -791,40 +955,48 @@ dedans. Bref, une catastrophe devenait imminente... lorsque, tout à
 coup, cet intrépide jeune homme s'élance, au péril de sa vie... saisit
 les rênes, arrête la machine... et j'ai la satisfaction de me retrouver
 sur le pavé, le sein palpitant, mais sain et sauf.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Comment, c'est monsieur qui?...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Oui, c'est monsieur qui a exécuté ce brillant sauvetage.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Oh! calmez-vous! j'en aurais fait autant pour le premier venu...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Cela ne diminue pas votre mérite à mes yeux! Ah! jeune homme, que
 n'ai-je sur moi un balancier! je vous frapperais incontinent une
 médaille commémorative. Mais si, à défaut de cet ornement, une modeste
 côtelette...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Merci, j'ai déjeuné.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Il est désintéressé comme un terre-neuve.
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>à part.</stage>
+<sp><speaker>MARTIN</speaker><p> <stage>à part</stage>.
 
 Ah! il m'ennuie, ce gros-là; je suis fâché d'avoir arrêté son sapin.
 <stage>Il entre au n° 13.</stage>
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais au moins, dites-moi le nom de mon sauveur!
 
@@ -833,54 +1005,68 @@ Mais au moins, dites-moi le nom de mon sauveur!
 <sp><p>
 
 DURAND, VENCESLAS, BERTRAND.
+
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Eh bien! eh bien! il s'en va sans m'apprendre son noble nom.
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>qui vient d'entrer.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>qui vient d'entrer</stage>.
 
 Son nom!... vous ne le savez pas?... c'est monsieur Isidore Martin.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Isidore Martin?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Du numéro 13. Le neveu d'un brave capitaine...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Le capitaine Martin?
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Précisément.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 C'est lui!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Qui, lui?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Le Martin que je cherche.
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Et que vous n'avez pas voulu voir!
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>avec joie.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>avec joie</stage>.
 
 Enfin, je le tiens!... <stage>Tout à coup en jetant un cri.</stage> Ah! grand Dieu!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Quoi donc?
+
 </p></sp>
 <sp><speaker>VENCESLAS</speaker><p>
 
@@ -888,67 +1074,82 @@ Qu'est-ce qui vous prend?
 
 DURAND, Quand je songe que tout à l'heure, il pouvait être escoffié par
 les chevaux du fiacre!... Je perdais, hélas!...
+
 </p></sp>
 <sp><speaker>BERTRAND</speaker><p>
 
 Un ami qui vous est bien cher?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Non... mille piastres de rente...
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Oh! du reste, il ne faut pas que ça vous étonne... Monsieur Isidore n'en
 fait jamais d'autres.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Comment! tous les matins il arrête un fiacre emporté!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Non, mais il ne se passe guère de jour sans qu'il risque les siens pour
 sauver quelqu'un ou quelque chose.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Hein?... qu'est-ce que j'apprends là!... mais c'est donc une manie!
+
 </p></sp>
-<sp><speaker>BERTRAND.</speaker><p>
+<sp><speaker>BERTRAND</speaker><p>.
 
 Ah! c'est un bien bon garçon que monsieur Martin, mais un fameux braque
 et qui ne tient pas plus à sa vie...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais j'y tiens, moi, j'y tiens à sa vie!... Heureusement me voici près
 de lui, et... <stage>Jetant un nouveau cri.</stage> Ah! grand Dieu! <stage>Bertrand
 impatienté sort.</stage>
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Quoi donc encore?... vous m'avez fait peur!...
 
-DURAND. Et ce duel, ce malheureux duel!
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>DURAND</speaker><p>. Et ce duel, ce malheureux duel!
+
+</p></sp>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Ah! dame, c'est vous qui m'avez aguiché...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Tu ne te battras pas.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mais, mon oncle...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Tu ne te battras pas!... La main d'Aménaïde est à ce prix!...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Ah! ça, permettez...
 
@@ -956,130 +1157,160 @@ Ah! ça, permettez...
 <head>SCÈNE XI</head>
 <sp><p>
 
-<cue>Les mêmes,</cue> MARTIN <stage>avec des épées.</stage>
+<cue>Les mêmes,</cue> MARTIN <stage>avec des épées</stage>.
+
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Messieurs, quand il vous plaira...
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>à Martin.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>à Martin</stage>.
 
 Nous sommes à vous, <stage>À Venceslas.</stage> Tu vas lui faire des excuses.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Des excuses! pour le renfoncement qu'il m'a donné.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Un renfoncement n'est pas un soufflet... Ah! si c'était un soufflet;
 mais c'est un renfoncement!...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 C'est déjà bien gentil comme ça.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Eh bien! messieurs, les fleurets s'impatientent.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Voilà!... <stage>Il fait un pas pour sortir.</stage>
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>vivement.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>vivement</stage>.
 
 Venceslas, je vous défends!... <stage>à Martin.</stage> Un instant, jeune homme.
 Avant tout, que diantre! il faut s'expliquer...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 C'est inutile!
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 C'est inutile!...
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>sévèrement.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>sévèrement</stage>.
 
 Venceslas!... <stage>À Martin.</stage> Voyons, jeune homme, voyons... mon neveu est
 un peu vif; il a eu des torts...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Moi?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Tu en as eu... mais tu les reconnais.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Comment! je...
-</p></sp>
-<sp><speaker>DURAND</speaker><p> (à Martin).
+
+DURAND (à Martin).
 
 Il les reconnaît.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mais non; marchons.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Marchons!
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>aux cent coups, à part.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>aux cent coups, à part</stage>.
 
 Mon Dieu! comment le désarmer?... Ah! <stage>À Martin.</stage> Monsieur, le pauvre
 garçon est idiot...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Moi?...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Hier encore, il était à la Longue-Pointe, section des abrutis.
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>furieux.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>furieux</stage>.
 
 Mais sacrebleu!
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>bas, à Venceslas.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>bas, à Venceslas</stage>.
 
 Dis que tu es idiot, et je double la dot.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Vous doublez la dot? c'est différent.
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>à part.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>à part</stage>.
 
 J'aime mieux ça que de tout perdre.
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>à Martin.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>à Martin</stage>.
 
 Monsieur, croyez bien que je suis...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Il suffit, monsieur, et puisque vous êtes idiot...
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Pardon, je...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Oui, il est satisfait; je suis satisfait; l'honneur est satisfait; nous
 sommes tous satisfait. <stage>À Venceslas.</stage> Va faire un tour, mon garçon!
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mais je ne puis lui laisser croire...
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>le poussant dehors.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>le poussant dehors</stage>.
 
 Va mon garçon, va!... Enfin je respire!
 
@@ -1088,148 +1319,181 @@ Va mon garçon, va!... Enfin je respire!
 <sp><p>
 
 DURAND, MARTIN.
+
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Ah! vous êtes bien bon de vous être donné tant de mal.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Moi, dont vous avez sauvé les jours, devrais-je souffrir que vous
 risquassiez les vôtres?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Tenez, s'il faut vous l'avouer, je n'acceptais ce combat que comme un
 moyen d'en finir...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Vous dites?...
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>tirant sa montre.</stage>
+<sp><speaker>MARTIN</speaker><p> <stage>tirant sa montre</stage>.
 
 Il est midi... Eh bien, mon brave homme, il se peut qu'à une heure je me
 fasse sauter la cervelle.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Sauter la cervelle! à une heure... <stage>À part.</stage> Saperlotte! et ma
 rente!... <stage>Haut.</stage> Vous avancez, jeune homme... vous avancez!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Oh! pour quelques minutes de plus ou de moins...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais, malheureux! pourquoi cette résolution, que je qualifie d'insensée?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Parce que... <stage>S'arrêtant.</stage> Mais, bah! à quoi bon vous narrer?...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Narrez toujours... Je vous porte beaucoup, mais beaucoup d'intérêt; vous
 m'avez rendu un grand service, et si je pouvais à mon tour...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Vous? allons donc! il s'agit de peines de coeur...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Vous êtes amoureux?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 D'une femme...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Je m'en doutais!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Qui, depuis huit jours, me fait tourner...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 En bourrique je connais ça! Et c'est pour une pareille vétille que vous
 iriez... Eh! mon Dieu! les peines de coeur autant en emporte le vent!
 vous ferez comme moi, vous oublierez.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Oublier?... encore un! merci! L'hiver dernier, je me mets à aimer une
 jeune fille; un beau matin, j'achète des gants pour aller lui demander
 l'adresse de son père; va te promener!... partie pour la ville!... pour
 je ne sais où en province... Je me dis comme vous: faut l'oublier!... Je
 parviens à en aimer une autre; et cette autre...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 J'en conviens, c'est désagréable; mais que diable! prenez patience;
 votre Célimène finira par s'humaniser. J'entends qu'elle s'humanise...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Vous?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Moi! donnez-moi son adresse; j'irai la voir, je lui parlerai à votre
 endroit; et, dans un mois, je veux danser à votre noce.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Non. J'ai promis d'attendre, j'attendrai... j'attendrai encore un peu...
 et si je ne retrouve pas mon Aménaïde...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Aménaïde?
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Aménaïde Durand.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais c'est ma fille!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Ah!... c'est votre fille?... Eh bien! nous avons dansé et valsé ensemble
 l'hiver dernier; ça m'a suffi pour apprécier les qualités de son coeur;
 et je vous demande sa main. Voilà!
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais je l'ai donnée à Venceslas.
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Eh bien! vous la reprendrez...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais...
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Sa main! ou vous aurez ma mort sur la conscience.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Allons, bon!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Décidez-vous.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Mais ce pauvre Venceslas... comment me dégager!... Ah! j'ai un moyen! je
 l'enverrai faire lanlaire! c'est entendu! Vous l'aurez, mon ami... vous
@@ -1240,39 +1504,48 @@ l'épouserez!
 <sp><p>
 
 <cue>Les mêmes,</cue> VENCESLAS.
+
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 L'épouser? ma cousine?... eh bien! et moi?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Toi? tu iras te faire lanlaire... c'est convenu entre nous.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Mais, sapristi, mous m'avez donné votre parole!...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Eh bien! oui, je t'ai donné ma parole, et je lui donne ma fille; je ne
 peux pas tout donner au même.
+
 </p></sp>
-<sp><speaker>VENCESLAS.</speaker><p>
+<sp><speaker>VENCESLAS</speaker><p>.
 
 Eh bien! si je n'ai pas la main d'Aménaïde, je tuerai monsieur.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Ciel!
+
 </p></sp>
-<sp><speaker>MARTIN.</speaker><p>
+<sp><speaker>MARTIN</speaker><p>.
 
 Et si monsieur épouse Aménaïde, je me tue!
-</p></sp>
-<sp><speaker>DURAND.</speaker><p>
 
-Double ciel! mes amis... mes bons amis... <stage>Avec désespoir.</stage> Mais
+</p></sp>
+<sp><speaker>DURAND</speaker><p>.
+
+Double ciel! mes amis... mes bons amis... <stage>Avec désespoir</stage>. Mais
 pourquoi donc cet animal de capitaine MARTIN va-t-il me constituer une
 rente sur la tête de son neveu?
 
@@ -1280,37 +1553,45 @@ rente sur la tête de son neveu?
 <head>SCÈNE XIV</head>
 <sp><p>
 
-<cue>Les mêmes,</cue> BERTRAND <stage>une lettre à la main.</stage>
+<cue>Les mêmes,</cue> BERTRAND <stage>une lettre à la main</stage>.
+
+
 </p></sp>
-<sp><speaker>BERTRAND</speaker><p> <stage>à Durand.</stage>
+<sp><speaker>BERTRAND</speaker><p> <stage>à Durand</stage>.
 
 Une lettre pour M. Durand.
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Donnez! <stage>Il parcourt la lettre.</stage> C'est du capitaine Martin. Il me
 donne le mot du logogriphe. "Mon cher ami, sachant mon neveu très braque
 et très écervelé, j'ai constitué ta rente sur sa tête, afin de t'obliger
 par là à veiller sur lui".
+
 </p></sp>
-<sp><speaker>MARTIN</speaker><p> <stage>à part.</stage> C'est donc pour cela qu'il tenait tant à ma vie?
+<sp><speaker>MARTIN</speaker><p> <stage>à part</stage>. C'est donc pour cela qu'il tenait tant à ma vie?
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 "Mais maintenant que je suis de retour, ce soin me regarde. J'ai
 régularisé les choses en transférant la rente sur la tête de ta fille
 Aménaïde". Enfin, j'échappe donc à la pression de ce vampire! <stage>A
-Martin.</stage> Cher ami, tu n'auras pas ma fille!
+Martin</stage>. Cher ami, tu n'auras pas ma fille!
+
 </p></sp>
-<sp><speaker>VENCESLAS</speaker><p> <stage>avec joie.</stage>
+<sp><speaker>VENCESLAS</speaker><p> <stage>avec joie</stage>.
 
 Oh bonheur!... et moi, j'aurais...
+
 </p></sp>
-<sp><speaker>DURAND.</speaker><p>
+<sp><speaker>DURAND</speaker><p>.
 
 Toi, je t'ai promis des tulipes, tu auras tes tulipes.
+
 </p></sp>
-<sp><speaker>DURAND</speaker><p> <stage>au public.</stage>
+<sp><speaker>DURAND</speaker><p> <stage>au public</stage>.
 
 AIR: <cue>de Céline.</cue>
 

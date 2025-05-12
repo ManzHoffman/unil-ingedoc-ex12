@@ -12,7 +12,7 @@ text = Path(input_path).read_text(encoding="utf-8")
 text = re.sub(r'^(SCÈNE\s[IVXLCDM]{1,6})', r'<head>\1</head>', text, flags=re.MULTILINE)
 
 # Stage directions in (_..._)
-text = re.sub(r'\(_(.*?)_\)', r'<stage>\1</stage>', text, flags=re.DOTALL)
+text = re.sub(r'\(_(.*?)_\)(\.)?', r'<stage>\1\2</stage>', text, flags=re.DOTALL)
 
 # Inline cues: _..._
 text = re.sub(r'_(.*?)_', r'<cue>\1</cue>', text, flags=re.DOTALL)
@@ -28,10 +28,11 @@ text = re.sub(r'(<head>.*?</head>)', r'\1\n<sp><p>', text, flags=re.DOTALL)
 
 # Tag speakers: uppercase names
 text = re.sub(
-    r'(?m)^([A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]{4,})(?=(\s*<stage>|\.|:|\s*$))',
-    r'</p></sp>\n<sp><speaker>\1</speaker><p>',
+    r'(?m)^\s*([A-ZÉÈÀÙÂÊÎÔÛÄËÏÖÜÇ]{4,})(\.?)(?=\s*(<stage>|\(|:|\s*$))',
+    r'</p></sp>\n<sp><speaker>\1\2</speaker><p>',
     text
 )
+
 
 # Final tag balancing
 open_sp = text.count('<sp>')
@@ -40,7 +41,7 @@ if open_sp > close_sp:
     text += '</p></sp>\n' * (open_sp - close_sp)
 
 # Wrap entire body
-text = '<?xml version="1.0" encoding="UTF-8"?>\n<body>\n' + text.strip() + '\n</body>'
+text = '<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="style.xsl"?>\n<body>\n' + text.strip() + '\n</body>'
 
 # Write output
 Path(output_path).parent.mkdir(parents=True, exist_ok=True)
